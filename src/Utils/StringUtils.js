@@ -1,0 +1,1 @@
+export const Capitalize = val => val[0].toUpperCase()+val.slice(1)
